@@ -1,0 +1,1 @@
+rootProject.name = "WinAppSandBox-corretto1.8-java_ver_180492-JGK"
