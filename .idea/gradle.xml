@@ -4,6 +4,11 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/WinAppSandBox-corretto1.8-java_ver_180492-JGK" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/WinAppSandBox-corretto1.8-java_ver_180492-JGK" />
+          </set>
+        </option>
         <option name="myGradleHome" value="" />
       </GradleProjectSettings>
     </option>

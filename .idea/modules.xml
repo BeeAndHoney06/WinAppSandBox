@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/WinAppSandBox.iml" filepath="$PROJECT_DIR$/.idea/WinAppSandBox.iml" />
-      <module fileurl="file://$PROJECT_DIR$/WinAppSandBox-corretto1.8-java_ver_180492-JGK.iml" filepath="$PROJECT_DIR$/WinAppSandBox-corretto1.8-java_ver_180492-JGK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBox-corretto1_8-java_ver_180492-JGK.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBox-corretto1_8-java_ver_180492-JGK.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBox-corretto1_8-java_ver_180492-JGK.main.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBox-corretto1_8-java_ver_180492-JGK.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WinAppSandBox-corretto1_8-java_ver_180492-JGK.test.iml" filepath="$PROJECT_DIR$/.idea/modules/WinAppSandBox-corretto1_8-java_ver_180492-JGK.test.iml" />
     </modules>
   </component>
 </project>

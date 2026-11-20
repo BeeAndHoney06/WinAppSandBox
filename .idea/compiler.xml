@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="WinAppSandBox-corretto1_8-java_ver_180492-JGK" target="26" />
+      <module name="WinAppSandBox-corretto1_8-java_ver_180492-JGK.main" target="26" />
+      <module name="WinAppSandBox-corretto1_8-java_ver_180492-JGK.test" target="26" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
